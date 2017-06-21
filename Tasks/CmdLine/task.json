@@ -69,7 +69,7 @@
             ]
         },
         "Node": {
-            "target": "cmdlinetask.js",
+            "target": "cmdline.js",
             "argumentFormat": ""
         }
     },
